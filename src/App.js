@@ -1,9 +1,11 @@
-import Contact from './Contact';
+// import Contact from './Contact';
+import Form from './Form';
 
 function App() {
   return (
     <>
-      <Contact />
+      {/* <Contact /> */}
+      <Form />
     </>
   );
 }
